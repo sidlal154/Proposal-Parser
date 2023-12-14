@@ -7,4 +7,6 @@ proposal-script.py: scrapes all Noun candidate proposals' descriptions, for vote
 
 Also includes a notebook using which one can run an analysis based on GPT APIs
 
+This is part of our DAO analytics research at UIUC with Prof Vishal Sachdev
+
 
